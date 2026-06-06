@@ -8,7 +8,7 @@ Welcome to the official page of **trendflow** - a project aimed at predicting th
 
 ## Legal Information
 
-* [Privacy policy](./Privacy_policy_demo_for_tiktok)
+* [Privacy policy](./privacy)
 
 ---
 
